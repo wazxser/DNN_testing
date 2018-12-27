@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7af58bb-1f7f-4c32-9543-b55f2fdbb7e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cleverhans" beforeDir="false" afterPath="$PROJECT_DIR$/cleverhans" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cleverhans/cleverhans/attacks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cleverhans/cleverhans/attacks/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cleverhans/cleverhans_tutorials/mnist_tutorial_cw.py" beforeDir="false" afterPath="$PROJECT_DIR$/cleverhans/cleverhans_tutorials/mnist_tutorial_cw.py" afterDir="false" />
@@ -63,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <first_editor relative-caret-position="210">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,12 +173,12 @@
       <updated>1545814376058</updated>
       <workItem from="1545814378050" duration="9424000" />
       <workItem from="1545887055405" duration="504000" />
-      <workItem from="1545913632855" duration="4783000" />
+      <workItem from="1545913632855" duration="5024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14711000" />
+    <option name="totallyTimeSpent" value="14952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -287,8 +286,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <first_editor relative-caret-position="210">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
