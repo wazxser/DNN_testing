@@ -7,6 +7,8 @@ git clone https://github.com/wazxser/DNN_testing.git
 ```python
 cd DNN_testing
 
+rm cleverhans
+
 git clone https://github.com/tensorflow/cleverhans
 
 pip3 install -e ./cleverhans
